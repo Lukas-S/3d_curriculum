@@ -1,0 +1,20 @@
+site_name: 3D Curriculum
+site_url: https://yourusername.github.io/your-repo-name
+
+theme:
+  name: material
+  palette:
+    scheme: slate          # dark mode
+    primary: deep purple
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - Blender Basics:
+    - Introduction: blender/intro.md
+    - Interface: blender/interface.md
+  - Geometry Nodes:
+    - Getting Started: geonodes/start.md
