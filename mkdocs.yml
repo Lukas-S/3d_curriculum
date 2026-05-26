@@ -14,7 +14,9 @@ theme:
 nav:
   - Home: index.md
   - Blender Basics:
-    - Introduction: blender/intro.md
+    - Blender:
+      - Introduction: blender/intro.md
     - Interface: blender/interface.md
   - Geometry Nodes:
     - Getting Started: geonodes/start.md
+  - Impressum: impressum.md
