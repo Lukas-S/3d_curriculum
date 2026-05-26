@@ -2,7 +2,7 @@ site_name: 3D Curriculum
 site_url: https://learn.bouncingrays.com
 
 theme:
-  theme:
+  name: material
   palette:
 
     # Palette toggle for automatic mode
@@ -36,3 +36,6 @@ nav:
   - Geometry Nodes:
     - Getting Started: geonodes/start.md
   #- Impressum: impressum.md
+
+copyright: >
+  <a href="/impressum/">Impressum</a>
